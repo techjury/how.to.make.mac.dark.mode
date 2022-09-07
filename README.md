@@ -1,6 +1,6 @@
 # how to make mac dark mode
 
-[![how to make mac dark mode](gett-stateed.png)](https://github.com/techjury/how.to.make.mac.dark.mode)
+[![how to make mac dark mode](gett-stateed.png)](https://icncomputer.com/how-to-make-mac-dark-mode/)
 
 A dark mode is a mode that can be applied to an operating system, application, or website. It inverts the colors on the screen to make it easier to view at night or in low-light situations. A dark mode is not just helpful for people who work at night; it also helps reduce strain on the eyes.
 
